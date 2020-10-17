@@ -1,0 +1,29 @@
+.modal{
+    position:fixed;
+    top:23px;
+    left:109px;
+    width:68%;
+    height:75%;
+    background:rgba(0,0,0,0.6);
+    text-align: center;
+}
+
+.modal-main{
+    position: fixed;
+    background: white;
+    width: 55%;
+    height: auto;
+    top:40%;
+    left: 42%;
+    transform:translate(-50%,-50%);
+    text-align: center;
+}
+
+.display-block{
+    display: block;
+}
+
+.dislplay-none{
+    display: none;
+}
+
