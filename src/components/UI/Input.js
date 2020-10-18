@@ -43,9 +43,11 @@ const input = ( props ) => {
     }
 
     return (
-        <div className="Input">
-            <label className="Label">{props.label}</label>
-            {inputElement}
+        <div className="Input row">
+            <div className="col-md-9 col-md-offset-3">
+            <span className="Label col-md-4">{props.label}:</span>
+            <span className="col-md-5">{inputElement}</span>
+            </div>        
         </div>
     );
 

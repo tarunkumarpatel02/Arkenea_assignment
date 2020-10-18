@@ -17,6 +17,7 @@ const ModalPopUp =(props)=>{
                 {formElementsArray.map(formElement => (
                     <Input 
                         key={formElement.id}
+                        label={formElement.config.label}
                         elementType={formElement.config.elementType}
                         elementConfig={formElement.config.elementConfig}
                         value={formElement.config.value}
@@ -28,7 +29,7 @@ const ModalPopUp =(props)=>{
    return(
        <div className={showHideModal}>
            <div className="modal-main form-horizontal">
-                <button onClick={props.handleclose}>close</button>
+                <button className='btn btn-danger' onClick={props.handleclose}>close</button>
                 <div className="row">
                         <h3>Add New User</h3>
                 </div>

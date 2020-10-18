@@ -17,6 +17,7 @@ class App extends Component {
               type: 'text',
               placeholder: 'Your Name'
           },
+          label:'Fullname',
           value: ''
       },
       DOB: {
@@ -25,6 +26,7 @@ class App extends Component {
               type: 'text',
               placeholder: 'DOB'
           },
+          label:'DOB',
           value: ''
       },
       Languages: {
@@ -35,6 +37,7 @@ class App extends Component {
                   {value: 'Hindi', displayValue: 'Hindi'}
               ]
           },
+          label:'Languages',
           value: 'English'
       },
       Gender: {
@@ -45,14 +48,16 @@ class App extends Component {
                 {value: 'Female', displayValue: 'Female'}
             ]
         },
+        label:'Gender',
         value: 'Male'
     },
     About: {
-      elementType: 'input',
+      elementType: 'textarea',
       elementConfig: {
-          type: 'text',
+          // type: 'textarea',
           placeholder: 'About'
       },
+      label:'About',
       value: ''
   },
   },
