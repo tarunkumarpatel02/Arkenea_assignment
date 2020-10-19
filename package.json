@@ -1,9 +1,11 @@
 {
+  "homepage": "http://tarunkumarpatel02.github.io/Arkenea_assignment",
   "name": "dummy_react_hooks_project",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "cra-template": "1.0.3",
+    "gh-pages": "^3.1.0",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-scripts": "3.4.3",

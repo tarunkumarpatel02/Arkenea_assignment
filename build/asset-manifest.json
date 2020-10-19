@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Arkenea_assignment/static/css/main.555e86bf.chunk.css",
+    "main.js": "/Arkenea_assignment/static/js/main.47a32b3c.chunk.js",
+    "main.js.map": "/Arkenea_assignment/static/js/main.47a32b3c.chunk.js.map",
+    "runtime-main.js": "/Arkenea_assignment/static/js/runtime-main.c6b3a033.js",
+    "runtime-main.js.map": "/Arkenea_assignment/static/js/runtime-main.c6b3a033.js.map",
+    "static/js/2.baa0b4bd.chunk.js": "/Arkenea_assignment/static/js/2.baa0b4bd.chunk.js",
+    "static/js/2.baa0b4bd.chunk.js.map": "/Arkenea_assignment/static/js/2.baa0b4bd.chunk.js.map",
+    "index.html": "/Arkenea_assignment/index.html",
+    "precache-manifest.64ea07b37b36b33688d3a112c076e7fc.js": "/Arkenea_assignment/precache-manifest.64ea07b37b36b33688d3a112c076e7fc.js",
+    "service-worker.js": "/Arkenea_assignment/service-worker.js",
+    "static/css/main.555e86bf.chunk.css.map": "/Arkenea_assignment/static/css/main.555e86bf.chunk.css.map",
+    "static/js/2.baa0b4bd.chunk.js.LICENSE.txt": "/Arkenea_assignment/static/js/2.baa0b4bd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6b3a033.js",
+    "static/js/2.baa0b4bd.chunk.js",
+    "static/css/main.555e86bf.chunk.css",
+    "static/js/main.47a32b3c.chunk.js"
+  ]
+}
